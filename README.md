@@ -8,11 +8,18 @@ I'm a Business Intelligence Engineer at Amazon with a deep love for data—how i
 - Use data to improve customer experience at Ring (Amazon)
 - Build community-centered tools like the [Charlottesville Crime Dashboard](https://charlottesville-crime-data.streamlit.app/)
 - Share code and analysis behind public dashboards ([GitHub repo](https://github.com/ckalibsnelson/crime-data))
-- Serve as Board President of [C4K](https://www.c4kclubhouse.org) and board member of [CIC](https://cicville.org)
+- Serve as Board President of [C4K](https://www.c4kclubhouse.org)
+- Vice President of the Board at [Live Arts](https://livearts.org)
+- Board Member at [Community Investment Collaborative (CIC)](https://cicville.org)
 
 📚 **Education**
-- B.A. in Economics – Wake Forest University, 2015
+- B.A. in Economics – Wake Forest University, 2015  
 - M.Sc. in Data Science – IE Business School, 2021
+
+📜 **Certificates**
+- AWS Certified Solutions Architect – Associate  
+- AWS Certified Cloud Practitioner  
+- Microsoft Certified: Azure Fundamentals
 
 🛠️ **Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
@@ -36,4 +43,7 @@ I'm a Business Intelligence Engineer at Amazon with a deep love for data—how i
 ---
 
 💬 **Let’s connect**
-- [LinkedIn](https://www.linkedin.com/in/ckalibnelson/)
+- 📧 ckalib.nelson@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/ckalibnelson/)  
+- [C4K](https://www.c4kclubhouse.org/)  
+- [DisruptHR Charlottesville](https://disrupthr.co/city/charlottesville/)

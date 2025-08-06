@@ -17,6 +17,7 @@ I'm a Business Intelligence Engineer at Amazon with a deep love for data—how i
 - M.Sc. in Data Science – IE Business School, 2021
 
 📜 **Certificates**
+- AWS Certified Data Engineer - Associate
 - AWS Certified Solutions Architect – Associate  
 - AWS Certified Cloud Practitioner  
 - Microsoft Certified: Azure Fundamentals

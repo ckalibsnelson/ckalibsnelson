@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Ckalib Nelson
 
-I'm a Business Intelligence Engineer at Amazon with a deep love for data—how it moves, what it reveals, and the stories it can tell. I leverage data to improve decision-making, design better customer experiences, and create opportunities both professionally and in the community.
+I'm a Manager of Strategy & Analytics at GEICO with a deep love for data—how it moves, what it reveals, and the stories it can tell. I leverage data to improve decision-making, design better customer experiences, and create opportunities both professionally and in the community.
 
 ---
 
 🧠 **What I do**
-- Use data to improve customer experience at Ring (Amazon)
+- Own the end-to-end Independent Agency sales funnel, building scalable analytics infrastructure from the ground up using Power BI, SQL, and Snowflake to establish reporting standards and drive data quality across a nascent distribution channel.
 - Build community-centered tools like the [Charlottesville Crime Dashboard](https://charlottesville-crime-data.streamlit.app/)
 - Share code and analysis behind public dashboards ([GitHub repo](https://github.com/ckalibsnelson/crime-data))
 - Serve as Board President of [C4K](https://www.c4kclubhouse.org)
@@ -17,6 +17,7 @@ I'm a Business Intelligence Engineer at Amazon with a deep love for data—how i
 - M.Sc. in Data Science – IE Business School, 2021
 
 📜 **Certificates**
+- AWS Certified Machine Learning Engineer - Associate
 - AWS Certified Data Engineer - Associate
 - AWS Certified Solutions Architect – Associate  
 - AWS Certified Cloud Practitioner  
